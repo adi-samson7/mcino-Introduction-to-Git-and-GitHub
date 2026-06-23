@@ -1,0 +1,9 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-u20230802501:/home/project/mcino-In
+troduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating 8740afc..d9d349d
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
