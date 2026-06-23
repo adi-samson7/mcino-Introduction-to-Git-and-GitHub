@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert c1400de Revert "update readme.md"
+  bug-fix-typo   d9d349d update readme.md
+  main           d9d349d [origin/main: ahead 1] update readme.md
